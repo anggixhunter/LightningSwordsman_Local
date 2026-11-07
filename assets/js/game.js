@@ -1078,9 +1078,9 @@
                     },
                     player: {
                         gender: t,
-                        attack: 2,
-                        hp: 3,
-                        maxHp: 3,
+                        attack: 3,
+                        hp: 5,
+                        maxHp: 5,
                         jump: 1,
                         rush: 0
                     }
