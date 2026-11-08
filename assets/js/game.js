@@ -1078,9 +1078,9 @@
                     },
                     player: {
                         gender: t,
-                        attack: 3,
-                        hp: 5,
-                        maxHp: 5,
+                        attack: 5,
+                        hp: 10,
+                        maxHp: 10,
                         jump: 1,
                         rush: 0
                     }
@@ -1109,8 +1109,8 @@
                 16: "".concat(b.stage2, "-s_10_1_item-maxHp")
             }
             , E = {
-                attack: 2,
-                maxHp: 3
+                attack: 4,
+                maxHp: 5
             }
             , S = {
                 attack: [y.item9, y.item10, y.item11, y.item12],
